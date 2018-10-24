@@ -27,16 +27,16 @@ Ahora siiiii, ¿ estás lista ?
 # 💜 Mi primera página web con HTML y CSS 💜
 
 ### Tabla de contenidos:
-1. [Guías sobre Flexbox y CSS Grid](##1-guías-sobre-flexbox-y-css-grid)
-2. [Juegos sobre Flexbox y CSS Grid](##2-guías-sobre-flexbox-y-css-grid)
-3. [Después de clonar el repositorio...](##3-después-de-clonar-el-repositorio)
-4. [Conozcamos la estructura de nuestra página web](##4-conozcamos-la-estructura-de-nuestra-página-web)
-5. [Header](##5-header)
-6. [Navbar](##5-navbar)
-7. [About me - Section](##7-about-me-section)
-8. [Tech - Section](##8-tech-section)
-9. [Hobbies - Section](##9-hobbies-section)
-10. [Footer](##10-footer)
+1. [Guías sobre Flexbox y CSS Grid](#1-guías-sobre-flexbox-y-css-grid)
+2. [Juegos sobre Flexbox y CSS Grid](#2-juegos-sobre-flexbox-y-css-grid)
+3. [Después de clonar el repositorio...](#3-después-de-clonar-el-repositorio)
+4. [Conozcamos la estructura de nuestra página web](#4-conozcamos-la-estructura-de-nuestra-página-web)
+5. [Header](#5-header)
+6. [Navbar](#6-navbar)
+7. [About me - Section](#7-about-me---section)
+8. [Tech - Section](#8-tech--section)
+9. [Hobbies - Section](#9-hobbies---section)
+10. [Footer](#10-footer)
 
 ## 1. Guías sobre Flexbox y CSS Grid
 
